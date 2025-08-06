@@ -1,0 +1,6 @@
+Items: {
+	TestTileItem: {
+		Tooltip: ""
+		DisplayName: Test Tile Item
+	}
+}
